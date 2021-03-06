@@ -1195,8 +1195,8 @@ if __name__ == '__main__':
     session.adapters.DEFAULT_RETRIES = 5  # 重试 5 次
 
     # 登录微信公众号，获取登录之后的cookies
-    loginName = "ronin769@163.com"
-    loginPass = "sun826203..."
+    loginName = "XXXXXXXXXX"
+    loginPass = "XXXXXXXXXX"
 
     # 要访问的公众号列表
     bizNameLists = ["sec-redclub", "moon_sec"]
